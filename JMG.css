@@ -1,0 +1,189 @@
+body{
+	background: #fff;
+	font: normal 15px arial,sans-serif;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+#body{
+	background: #ffffff;
+}
+
+a{
+	font-size: 14px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #bb4400;
+	text-decoration: underline;
+}
+
+h3{	
+	font: italic bold 16px "Tahoma",sans-serif;
+	color: #555555;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	margin-top: 10px; 
+	margin-left: 10px;
+	width: 560px;
+	height: 20px;
+}
+
+h4{
+	font-size: 15px;
+}
+
+p{
+	text-align: justify;
+	padding-right: 25px;
+	width: 608px;
+}
+
+#container1{
+	background: #ffffff;
+	width: 1000px;
+	height: 100%;
+	padding-bottom: 30px;
+	left: 0px;
+}
+
+#head{
+	background: url(JMGimg/head_bg_left.png) no-repeat;
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 10px;
+	left: 20px;
+}
+
+#head_right{
+	background: #56794a url(JMGimg/head.png) repeat-x;
+	width: 1000px;
+	height: 80px;
+	text-align: right;
+}
+
+#JMG-head{
+	width: 397px;
+	height: 29px;
+	top: 90px;
+	left: 100px;
+	margin-buttom: 2px;
+}
+
+#links{
+	background: #56794a;
+	text-align: right;
+	width: 1000px;
+	height: 30px;
+	border-top: #fff 3px solid;
+	border-bottom: #fff 3px solid;
+}
+
+#head_base2{
+	background: #56794a;
+	margin-top: 0px;
+	width: 100%;
+	height: 20px;
+}
+
+#head_base2 a{
+	font: bold 12px "Tahoma",sans-serif;
+	color: #ffffff;
+	text-align:center;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#head_base2 a:hover{
+	text-decoration: none;
+}
+
+#adverts{
+	background-color: #ffffff;
+	padding: 3px;
+	border: solid 2px #ffffff;
+	width: 200px;
+	height: 100%;
+	float: left;
+	margin-top: 80px;
+}
+
+#sub-container{
+	background: #ffffff;
+	padding: 10px;
+	width: 600px;
+	height: 100%;
+	float: left;
+}
+
+#adverts02{
+	background-color: #fff;
+	padding: 3px;
+	border: solid 2px #fff;
+	width: 160px;
+	height: 100%;
+	float: right;
+	margin-top: 5px;
+}
+
+#enc_register_login_form{
+	width: 100%;
+	height: 100%;
+}
+
+#register{
+	float: left;
+	width: 250px;
+}
+
+#login_form{
+	float: right;
+	width: 350px;
+}
+
+#footer{
+	width: 1000px;
+	position: relative;
+	top: 15px;
+	padding-bottom: 25px;
+	margin: 1px auto;
+	left: 0px;
+	font-size: 0.9em;
+	float: left;
+	color: #888888;
+	text-align: center;
+}
+
+#reg_right{
+	width: 290px;
+	float: right;
+}
+
+#reg_left{
+	width: 290px;
+	float: left;
+	text-align: right;
+}
+
+#writing_cv01{
+	background: url(JMGimg/cv_tips1.png) no-repeat;
+	padding: 5px;
+	font-weight: bold;
+}
+
+#writing_cv02{
+	background: url(JMGimg/cv_tips2.png) no-repeat;
+	padding: 5px;
+	font-weight: bold;
+}
+
+#writing_cv03{
+	background: url(JMGimg/cv_tips3.png) no-repeat;
+	padding: 5px;
+	font-weight: bold;
+}

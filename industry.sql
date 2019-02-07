@@ -1,0 +1,1 @@
+ALTER table employers add industry varchar(30) not null;
